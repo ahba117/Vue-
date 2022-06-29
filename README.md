@@ -1,2 +1,2 @@
-# Vue-element-ui-node-超市系统
+# Vue-node-超市系统
 
